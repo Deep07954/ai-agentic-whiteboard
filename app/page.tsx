@@ -42,7 +42,7 @@ export default function Home() {
         </div>
 
         <h1 style={styles.heroTitle}>
-          <h1>Hello world</h1>
+         <>bhk mc<br></br></>
           <span style={styles.gradientText}> 10x Faster</span>
         </h1>
 
